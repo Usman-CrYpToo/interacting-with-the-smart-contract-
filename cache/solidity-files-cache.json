@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\usman\\Desktop\\hardhat dapp\\dapp\\contracts\\Lock.sol": {
+      "lastModificationDate": 1682555827471,
+      "contentHash": "e8dea683bcdd3776567cc2911f2e7c74",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.7.0"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
